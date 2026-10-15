@@ -1,10 +1,10 @@
-# Research — pravidla pro agenta
+# Research: rules for the agent
 
-Tento modul vlastní mechanism research.
+This module owns mechanism research.
 
-- Každý záznam musí mít zdroje a datum ověření.
-- Odděluj ověřený revenue signál od hypotézy.
-- Nekopíruj brand, obsah, databáze, zákaznická data ani účty platforem.
-- Nepoužívej spam, fake engagement, phishing ani ToS obcházení jako doporučený
-  mechanismus.
-- Když research navrhuje test, předej ho do `modules/experiments/`.
+- Every record must have sources and a verification date.
+- Keep a verified revenue signal separate from a hypothesis.
+- Do not copy brands, content, databases, customer data or platform accounts.
+- Do not use spam, fake engagement, phishing or ToS circumvention as a
+  recommended mechanism.
+- When research proposes a test, hand it over to `workspace/experiments/`.
